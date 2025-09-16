@@ -100,6 +100,7 @@ body {
     gap: 30px;
 }
 
+
 .nav-link {
     color: var(--white);
     text-decoration: none;
@@ -230,7 +231,7 @@ body {
 
 .hero-description {
     font-size: 1.1rem;
-    color: var(--light-gray);
+    color: var(--white);
     margin-bottom: 30px;
     line-height: 1.8;
 }
@@ -381,7 +382,7 @@ section {
 
 .section-subtitle {
     font-size: 1.2rem;
-    color: var(--light-gray);
+    color: var(--white);
     font-weight: 300;
 }
 
@@ -425,7 +426,7 @@ section {
     font-size: 1.1rem;
     line-height: 1.8;
     margin-bottom: 20px;
-    color: var(--light-gray);
+    color: var(--white);
 }
 
 .stats {
@@ -453,7 +454,7 @@ section {
 
 .stat-label {
     font-size: 0.9rem;
-    color: var(--light-gray);
+    color: var(--white);
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -572,6 +573,7 @@ section {
 .portfolio-content p {
     margin-bottom: 20px;
     font-size: 1rem;
+    color: var(--white);
 }
 
 .portfolio-links {
@@ -681,7 +683,7 @@ section {
 }
 
 .service-card p {
-    color: var(--light-gray);
+    color: var(--white);
     line-height: 1.6;
 }
 
@@ -706,7 +708,7 @@ section {
 
 .contact-info > p {
     font-size: 1.1rem;
-    color: var(--light-gray);
+    color: var(--white);
     margin-bottom: 40px;
     line-height: 1.8;
 }
@@ -737,7 +739,7 @@ section {
 }
 
 .contact-details p {
-    color: var(--light-gray);
+    color: var(--white);
 }
 
 .social-links {
@@ -836,7 +838,7 @@ section {
 }
 
 .footer-section p {
-    color: var(--light-gray);
+    color: var(--white);
     line-height: 1.6;
     margin-bottom: 10px;
 }
@@ -850,7 +852,7 @@ section {
 }
 
 .footer-section ul li a {
-    color: var(--light-gray);
+    color: var(--white);
     text-decoration: none;
     transition: var(--transition-fast);
 }
@@ -863,7 +865,7 @@ section {
     text-align: center;
     padding-top: 30px;
     border-top: 1px solid rgba(139, 92, 246, 0.1);
-    color: var(--light-gray);
+    color: var(--white);
 }
 
 /* ===== RESPONSIVE DESIGN ===== */
