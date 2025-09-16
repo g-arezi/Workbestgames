@@ -2,7 +2,7 @@
 
 Um site de portfólio moderno e responsivo para a empresa de desenvolvimento de jogos WorkBestGames, criado com HTML5, CSS3 e JavaScript vanilla.
 
-![WorkBestGames Logo](img/logo_wbg.png)
+![WorkBestGames Logo](img/logo_wbg1.png)
 
 ## 🌟 Visão Geral
 
