@@ -233,13 +233,14 @@ Contribuições são bem-vindas! Para contribuir:
 **WorkBestGames**
 - 🌐 Website: https://workbestgames.com/
 - 📧 Email: contato@workbestgames.com
-- 📱 Telefone: +55 (11) 9999-9999
+
 
 ## 🙏 Agradecimentos
 
 - [Font Awesome](https://fontawesome.com/) pelos ícones
 - [Google Fonts](https://fonts.google.com/) pelas tipografias
 - Comunidade de desenvolvimento web pelas inspirações
+- E principalmente equipe da WorkBestGames pela oportunidade de mostrar meu trabalho
 
 ---
 
